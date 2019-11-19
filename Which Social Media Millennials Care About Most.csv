@@ -379,14 +379,14 @@ Question,Segment Type,Segment Description,Answer,Count,Percentage
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,your parents make? > $240K,Facebook,36,0.186
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,your parents make? > $240K,Snapchat,93,0.479
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,your parents make? > $240K,Linkedin,9,0.046
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 35 or older,Instagram,1,0.5
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 35 or older,Facebook,1,0.5
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 35 or older,Snapchat,0,0
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 35 or older,Linkedin,0,0
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 31-34,Instagram,0,0
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 31-34,Facebook,0,0
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 31-34,Snapchat,1,1
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 31-34,Linkedin,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,35 or older,Instagram,1,0.5
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,35 or older,Facebook,1,0.5
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,35 or older,Snapchat,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,35 or older,Linkedin,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,31-34,Instagram,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,31-34,Facebook,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,31-34,Snapchat,1,1
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,31-34,Linkedin,0,0
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,What's your leaning? In-between,Instagram,125,0.281
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,What's your leaning? In-between,Facebook,54,0.121
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,What's your leaning? In-between,Snapchat,253,0.569
@@ -399,22 +399,22 @@ Question,Segment Type,Segment Description,Answer,Count,Percentage
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,What's your leaning? Conservative 🐘,Facebook,53,0.129
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,What's your leaning? Conservative 🐘,Snapchat,234,0.568
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,What's your leaning? Conservative 🐘,Linkedin,23,0.056
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 25-30,Instagram,1,0.167
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 25-30,Facebook,2,0.333
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 25-30,Snapchat,1,0.167
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 25-30,Linkedin,2,0.333
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 18-24,Instagram,33,0.224
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 18-24,Facebook,29,0.197
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 18-24,Snapchat,79,0.537
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 18-24,Linkedin,6,0.041
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 15-17,Instagram,18,0.254
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 15-17,Facebook,8,0.113
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 15-17,Snapchat,43,0.606
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 15-17,Linkedin,2,0.028
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 14 or younger,Instagram,1,0.5
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 14 or younger,Facebook,0,0
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 14 or younger,Snapchat,1,0.5
-"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,is your age? 14 or younger,Linkedin,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,25-30,Instagram,1,0.167
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,25-30,Facebook,2,0.333
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,25-30,Snapchat,1,0.167
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,25-30,Linkedin,2,0.333
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Instagram,33,0.224
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Facebook,29,0.197
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Snapchat,79,0.537
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Linkedin,6,0.041
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Instagram,18,0.254
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Facebook,8,0.113
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Snapchat,43,0.606
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,18-24,Linkedin,2,0.028
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,14 or younger,Instagram,1,0.5
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,14 or younger,Facebook,0,0
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,14 or younger,Snapchat,1,0.5
+"You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Age,14 or younger,Linkedin,0,0
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,I'm in? College,Instagram,1116,0.265
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,I'm in? College,Facebook,711,0.169
 "You open ur phone and have a notif badge on instagram, facebook, snapchat, and linkedin...which do you click first?",Custom,I'm in? College,Snapchat,2265,0.537
